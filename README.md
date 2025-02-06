@@ -1,2 +1,2 @@
 # AWS_Revision
-In this repo I will upload my notes to revise it in future also including the interview questions or any doubt that i face during this learning journey.
+In this repository, I'll be sharing my carefully curated notes to help with future revisions. 🚀 Along the way, I'll also include essential interview questions and solutions to any doubts I encounter during this exciting learning journey. 📚✨
